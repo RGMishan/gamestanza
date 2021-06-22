@@ -1,6 +1,6 @@
 <?php 
 
-define("SECRETKEY","jaVGc.YTkd86KHsl01EqZx");
+define("SECRETKEY","MjaVGcI.YTkd8S6KHHsl0A1EqNZx");
 
 function confirm($result){
     global $connection;
